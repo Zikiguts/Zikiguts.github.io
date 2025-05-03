@@ -1,0 +1,199 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+
+
+body {
+   background-color:#4D1525;
+   color: #D6D2CF;
+}
+
+h1 {
+    color: white;
+}
+
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+footer {
+    background-color:#101213;
+    padding: 20px;
+}
+
+input {
+    background-color: #282828;
+    border: 2px solid #404040;
+    color: white;
+    padding: 4px;
+}
+
+button {
+    background-color: #282828;
+    border: 2px solid #404040;
+    color: white;
+    padding: 4px;
+}
+
+
+select {
+    background-color: #282828;
+    border: 2px solid #404040;
+    color: white;
+    padding: 4px;
+}
+
+
+
+textarea {
+    background-color: #282828;
+    border: 2px solid #404040;
+    color: white;
+    padding: 4px;
+    max-width: 600px;
+    height: 200px;
+    resize: none;
+}
+
+
+#submit {
+    background-color: #101213;
+    color: white;
+    padding: 2px;
+    border: 0px;
+}
+
+
+
+
+p {
+    background-color:#101213;
+    padding: 20px;
+}
+
+div {
+    padding: 20px;
+}
+
+
+a {
+    color: #8ebf42;
+}
+
+
+#warning-box {
+    background-color:#101213;
+    color: gold;
+    text-align:center;
+    max-width: 500px;
+    border: 2px solid gold;
+    padding: 0px;
+}
+
+#warning-heading {
+    text-align:center;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+#header {
+    background-color:#101213;
+    padding: 20px;
+}
+
+#pay-table {
+    background-color:#101213;
+    padding: 20px;
+    text-align:center;
+    max-width: 800px;
+}
+
+
+#pay-container {
+    text-align:center;
+    max-width: 400px;
+}
+
+#content-block {
+    background-color:#101213;
+    padding: 20px;
+    text-align: left;
+    max-width: 800px;
+}
+
+#content-heading {
+    text-align:center;
+    color: white;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+#review {
+    background-color:#252525;
+    padding: 20px;
+    text-align:left;
+    max-width: 600px;
+}
+
+#review-box {
+    padding: 20px;
+    background-color: #101213;
+    max-width: 800px;
+    height: 400px;
+    overflow: auto;
+}
+
+#large-paragraph {
+    padding: 20px;
+    font-size:1.2em;
+}
+
+
+#large-paragraph-left {
+    padding: 20px;
+    font-size:1.2em;
+    text-align: left;
+}
+
+#coupon-message {
+    background-color: darkred;
+    padding: 1px;
+    max-width: 150px;
+}
+
+#amount-id {
+    color: green;
+}
+
+
+#stars {
+    color: gold;
+}
+
+#invisible {
+    color: transparent;
+}
+
+
+#nav-button {
+    background-color: #282828;
+    border: 2px solid #909090;
+    color: gold;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
